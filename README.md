@@ -18,6 +18,8 @@
 
 5.你用的Qwen3VL-8B，如果模型token长度不够，训练过程中截断了（答案this is a cat in a car，生成this is a cat in）怎么处理：不会，乱答，最后老实承认不会。
 
+6.BPE八股，简单背了一下
+
 （2）非技术型问题：
 
 1.你是研一刚接触VLM，为什么要做VLM，你觉得能够在VLM中outstanding的人应该具备怎样的特质
